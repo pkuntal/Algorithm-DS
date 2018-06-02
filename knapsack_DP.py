@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue May 29 07:06:26 2018
+0/1 Knapsack Problem - Given items of certain weights/values and maximum allowed weight
+how to pick items to pick items from this set to maximize sum of value of items such that
+sum of weights is less than or equal to maximum allowed weight.
+
+Time complexity for this sol is O(W*total items)
 
 @author: pkuntal
 """
